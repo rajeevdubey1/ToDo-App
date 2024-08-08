@@ -37,11 +37,11 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
           const DrawerHeader(
             padding:  EdgeInsets.all(0),
                   decoration:
-                      BoxDecoration(color: Colors.purple),
+                      BoxDecoration(color: Colors.teal),
                   child: UserAccountsDrawerHeader(
                     margin:  EdgeInsets.all(0),
                     decoration:
-                        BoxDecoration(color: Colors.purple),
+                        BoxDecoration(color: Colors.teal),
                     accountName: Text(
                       "TODO LIST",
                       style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Colors.white),
@@ -56,16 +56,16 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
                   ),
           ),
           ListTile(
-            tileColor: Colors.purple[100],
+            tileColor: Colors.teal[100],
             leading: const Icon(
               Icons.pending_actions_rounded,
-              color: Colors.purple,
+              color: Colors.teal,
               size: 28,
             ),
             title: const Text(
               "Pending",
               style: TextStyle(
-                color: Colors.purple,
+                color: Colors.teal,
                 fontSize: 20,
                 fontWeight: FontWeight.w700,
               ),
@@ -79,16 +79,16 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
             height: Get.height * 0.015,
           ),
           ListTile(
-            tileColor: Colors.purple[100],
+            tileColor: Colors.teal[100],
             leading: const Icon(
               Icons.done_outline_rounded,
-              color: Colors.purple,
+              color: Colors.teal,
               size: 28,
             ),
             title: const Text(
               "Completed",
               style: TextStyle(
-                color: Colors.purple,
+                color: Colors.teal,
                 fontSize: 20,
                 fontWeight: FontWeight.w700,
               ),
@@ -101,21 +101,21 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
         ],
       )),
       appBar: AppBar(
-        iconTheme: const IconThemeData(color: Colors.purple),
+        iconTheme: const IconThemeData(color: Colors.teal),
         title: const Text("Pending Tasks",
             style: TextStyle(
-              color: Colors.purple,
+              color: Colors.teal,
               fontSize: 21,
               fontWeight: FontWeight.w700,
             )),
         centerTitle: true,
         elevation: 0.0,
-        backgroundColor: Colors.purple[100],
+        backgroundColor: Colors.teal[100],
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
       floatingActionButton: FloatingActionButton.extended(
         elevation: 40,
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.teal,
         onPressed: () async {
           await newTaskInput(context);
         },
@@ -139,7 +139,7 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
                         const Text(
                           "No Tasks",
                           style: TextStyle(
-                            color: Colors.purple,
+                            color: Colors.teal,
                             fontSize: 21,
                             fontWeight: FontWeight.w700,
                           ),
@@ -150,7 +150,7 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
                         Text(
                           "Tap on button to add new task",
                           style: TextStyle(
-                            color: Colors.purple[300],
+                            color: Colors.teal[300],
                             fontSize: 18,
                             fontWeight: FontWeight.w600,
                           ),
@@ -226,7 +226,7 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
                                 child: Container(
                                     // margin: const EdgeInsets.all(10),
                                     decoration: BoxDecoration(
-                                      color: Colors.purple.shade300,
+                                      color: Colors.teal.shade300,
                                       borderRadius: BorderRadius.circular(10),
                                       boxShadow: [
                                         BoxShadow(
@@ -273,7 +273,7 @@ class _PendingTasksScreenState extends State<PendingTasksScreen> {
                                             child: IconButton(
                                               icon: const Icon(
                                                 Icons.edit,
-                                                color: Colors.purple,
+                                                color: Colors.teal,
                                                 size: 25,
                                               ),
                                               onPressed: () {

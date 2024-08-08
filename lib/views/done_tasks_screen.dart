@@ -28,10 +28,10 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
         children: [
           const DrawerHeader(
             padding: EdgeInsets.all(0),
-            decoration: BoxDecoration(color: Colors.purple),
+            decoration: BoxDecoration(color: Colors.teal),
             child: UserAccountsDrawerHeader(
               margin: EdgeInsets.all(0),
-              decoration: BoxDecoration(color: Colors.purple),
+              decoration: BoxDecoration(color: Colors.teal),
               accountName: Text(
                 "TODO LIST",
                 style: TextStyle(
@@ -49,16 +49,16 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
             ),
           ),
           ListTile(
-            tileColor: Colors.purple[100],
+            tileColor: Colors.teal[100],
             leading: const Icon(
               Icons.pending_actions_rounded,
-              color: Colors.purple,
+              color: Colors.teal,
               size: 28,
             ),
             title: const Text(
               "Pending",
               style: TextStyle(
-                color: Colors.purple,
+                color: Colors.teal,
                 fontSize: 20,
                 fontWeight: FontWeight.w700,
               ),
@@ -72,16 +72,16 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
             height: Get.height * 0.015,
           ),
           ListTile(
-            tileColor: Colors.purple[100],
+            tileColor: Colors.teal[100],
             leading: const Icon(
               Icons.done_outline_rounded,
-              color: Colors.purple,
+              color: Colors.teal,
               size: 28,
             ),
             title: const Text(
               "Completed",
               style: TextStyle(
-                color: Colors.purple,
+                color: Colors.teal,
                 fontSize: 20,
                 fontWeight: FontWeight.w700,
               ),
@@ -94,16 +94,16 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
         ],
       )),
       appBar: AppBar(
-        iconTheme: const IconThemeData(color: Colors.purple),
+        iconTheme: const IconThemeData(color: Colors.teal),
         title: const Text("Completed Tasks",
             style: TextStyle(
-              color: Colors.purple,
+              color: Colors.teal,
               fontSize: 21,
               fontWeight: FontWeight.w700,
             )),
         centerTitle: true,
         elevation: 0.0,
-        backgroundColor: Colors.purple[100],
+        backgroundColor: Colors.teal[100],
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -123,7 +123,7 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
                           Text(
                             "No Tasks Completed Yet",
                             style: TextStyle(
-                              color: Colors.purple[300],
+                              color: Colors.teal[300],
                               fontSize: 21,
                               fontWeight: FontWeight.w700,
                             ),
@@ -202,7 +202,7 @@ class _DoneTasksScreenState extends State<DoneTasksScreen> {
                                   child: Container(
                                       // margin: const EdgeInsets.all(10),
                                       decoration: BoxDecoration(
-                                        color: Colors.purple.shade300,
+                                        color: Colors.teal.shade300,
                                         borderRadius: BorderRadius.circular(10),
                                         boxShadow: [
                                           BoxShadow(

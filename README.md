@@ -4,14 +4,14 @@
 
 **_Mockup_**
 
-| App Menu Items | No Tasks Screen | Add New Task Screen |
+| App Splash Screen | App Menu Screen | Add New Task Screen |
 | --- | --- | --- |
-|![Menu Items](https://github.com/user-attachments/assets/03de900e-774c-4022-9e20-b63d5a1fd477) |![No Tasks Screen](https://github.com/user-attachments/assets/8938af92-515d-4bae-a050-9444fe6119bf) |![Add New Task Screen](https://github.com/user-attachments/assets/638d720b-1142-4a0f-ab10-9a68dab78654) |
+|![App Splash Screen](https://github.com/user-attachments/assets/c92b518b-aff9-401c-961d-1864df0dad70) |![App Menu Screen](https://github.com/user-attachments/assets/52ae9e55-7abb-4d03-80df-acf7ec607efc) |![Add New Task Screen](https://github.com/user-attachments/assets/06cf6235-98da-4227-a139-cb2e5df597d8) |
 
 
 | Pending Tasks Screen| Marked As Completed Screen| Delete Task Screen | 
 | --- | --- | --- |
-|![Pending Tasks Screen](https://github.com/user-attachments/assets/8b132415-7bd3-4275-9856-e69c16fba7ed) |![Marked As Completed Screen](https://github.com/user-attachments/assets/f62f1db8-d4c2-49ce-ba6e-6f9ab109db78) |![Add Delete Task Screen](https://github.com/user-attachments/assets/c88793c1-9340-4092-9fd3-6a8c89425350) |
+|![Pending Tasks Screen](https://github.com/user-attachments/assets/e2e532f7-61a6-474f-9a6a-329d396429e3) |![Marked As Completed Screen](https://github.com/user-attachments/assets/c906d9a2-df49-4082-805c-963cf911e8fd) |![Add Delete Task Screen](https://github.com/user-attachments/assets/55a006ed-b667-42c8-85dc-f884a29151c7) |
 
 ## Features
 
