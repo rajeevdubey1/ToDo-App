@@ -8,9 +8,9 @@
 | --- | --- | --- |
 |![Menu Items](https://github.com/user-attachments/assets/03de900e-774c-4022-9e20-b63d5a1fd477) |![Add New Task Screen](https://github.com/user-attachments/assets/638d720b-1142-4a0f-ab10-9a68dab78654) |![Pending Tasks Screen](https://github.com/user-attachments/assets/8b132415-7bd3-4275-9856-e69c16fba7ed) |
 
-| Marked As Completed Screen| Delete Task Screen| Edit Task Screen|
+| Marked As Completed Screen| Delete Task Screen| No Tasks Screen|
 | --- | --- | --- |
-|![Marked As Completed Screen](https://github.com/user-attachments/assets/f62f1db8-d4c2-49ce-ba6e-6f9ab109db78) |![Add Delete Task Screen](https://github.com/user-attachments/assets/c88793c1-9340-4092-9fd3-6a8c89425350) |![Add New Task Screen](https://github.com/user-attachments/assets/8938af92-515d-4bae-a050-9444fe6119bf) |
+|![Marked As Completed Screen](https://github.com/user-attachments/assets/f62f1db8-d4c2-49ce-ba6e-6f9ab109db78) |![Add Delete Task Screen](https://github.com/user-attachments/assets/c88793c1-9340-4092-9fd3-6a8c89425350) |![No Tasks Screen](https://github.com/user-attachments/assets/8938af92-515d-4bae-a050-9444fe6119bf) |
 
 ## Features
 
