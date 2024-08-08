@@ -4,9 +4,9 @@
 
 **_Mockup_**
 
-| Splash Screen | Add New Task Screen | Pending Tasks Screen |
+| App Menu Items | Add New Task Screen | Pending Tasks Screen |
 | --- | --- | --- |
-|![Menu Items](https://github.com/user-attachments/assets/03de900e-774c-4022-9e20-b63d5a1fd477) |![Add New Task Screen](https://user-images.githubusercontent.com/75989502/233316280-1cc22d8a-9b40-40e9-8bf8-09b1864c7a15.png) |![Pending Tasks Screen](https://user-images.githubusercontent.com/75989502/233316347-62ee9826-eb95-4310-aa98-04cda44642a8.png) |
+|![Menu Items](https://github.com/user-attachments/assets/03de900e-774c-4022-9e20-b63d5a1fd477) |![Add New Task Screen](https://github.com/user-attachments/assets/638d720b-1142-4a0f-ab10-9a68dab78654) |![Pending Tasks Screen](https://github.com/user-attachments/assets/8b132415-7bd3-4275-9856-e69c16fba7ed) |
 
 ## Features
 
