@@ -11,7 +11,7 @@
 
 | Pending Tasks Screen| Marked As Completed Screen| Delete Task Screen | 
 | --- | --- | --- |
-|![Add Delete Task Screen](https://github.com/user-attachments/assets/c88793c1-9340-4092-9fd3-6a8c89425350) |![Pending Tasks Screen](https://github.com/user-attachments/assets/8b132415-7bd3-4275-9856-e69c16fba7ed) |![Marked As Completed Screen](https://github.com/user-attachments/assets/f62f1db8-d4c2-49ce-ba6e-6f9ab109db78) |
+|![Pending Tasks Screen](https://github.com/user-attachments/assets/8b132415-7bd3-4275-9856-e69c16fba7ed) |![Marked As Completed Screen](https://github.com/user-attachments/assets/f62f1db8-d4c2-49ce-ba6e-6f9ab109db78) |![Add Delete Task Screen](https://github.com/user-attachments/assets/c88793c1-9340-4092-9fd3-6a8c89425350) |
 
 ## Features
 
